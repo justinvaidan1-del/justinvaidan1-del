@@ -15,7 +15,7 @@ I'm a computer science student with a strong foundation in software development,
 | **Systems & Concurrency** | Multithreading, synchronization fundamentals |
 | **Networking & IT** | Networking fundamentals, IT support and troubleshooting |
 | **Computer Science Foundations** | Data structures, algorithms, complexity analysis |
-| **Problem Solving** | LeetCode ([X] problems solved) |
+| **Problem Solving** | LeetCode (1000 problems solved) |
 
 ---
 
